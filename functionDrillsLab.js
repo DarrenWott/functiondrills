@@ -21,7 +21,11 @@
 */
 
 //CODE HERE
-
+function jsNinja(){
+  return 'I am a Java ninja!';
+}
+const ninjaStr = jsNinja();
+console.log({ninjaStr});
 
 ////////////////// PROBLEM 3 ////////////////////
 /*
